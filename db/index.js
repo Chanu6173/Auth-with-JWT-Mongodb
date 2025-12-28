@@ -1,8 +1,7 @@
 // Schema Design
 const mongoose = require('mongoose');
 // Connect to MongoDB
-// mongodb+srv://nawazshaikhfarhan_db_user:<db_password>@chanuwithkirat.batvczw.mongodb.net/
-mongoose.connect('mongodb+srv://nawazshaikhfarhan_db_user:8jzqQHsYhy62ttSJ@chanuwithkirat.batvczw.mongodb.net/');
+mongoose.connect('mongodb+srv://****************_db_user:************@chanuwithkirat.batvczw.mongodb.net/');
 
 // Define schemas
 const AdminSchema = new mongoose.Schema({
