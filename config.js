@@ -1,4 +1,4 @@
 
 module.exports ={
-    JWT_SECRET : "chanu_6173"
+    JWT_SECRET : "chanu_****"
 };
