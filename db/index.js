@@ -1,6 +1,6 @@
 // Schema Design
 const mongoose = require('mongoose');
-// Connect to MongoDB
+// Connect to MongoDB 
 mongoose.connect('mongodb+srv://****************_db_user:************@chanuwithkirat.batvczw.mongodb.net/');
 
 // Define schemas
